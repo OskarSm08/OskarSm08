@@ -44,7 +44,7 @@ I am an avid software engineer who enjoys creating projects and systems, while a
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
 
-My coding journey started from a young age, playing games like a kid and was intrigued on how they work and whats going on behind the scenes and wanted to start programming myself. I started with Python in highschool and then web development learning how to make great applications and websites.
+My coding journey began at a young age. As a kid, I loved playing games and was fascinated by how they worked behind the scenes. This curiosity led me to start programming myself. I began learning Python in high school, then moved on to web development, where I learned how to create great applications and websites.
 
 </details>
 
