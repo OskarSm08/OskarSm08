@@ -50,6 +50,4 @@ My coding journey began at a young age. As a kid, I loved playing games and was 
 
 ---
 
-### 🙌 Credits
 
-Built with ✨ by Kieran McMonagle
